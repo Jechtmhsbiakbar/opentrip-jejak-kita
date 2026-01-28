@@ -72,6 +72,6 @@ Source code lengkap dikelola secara terpisah.
 ---
 
 👤 **Dikembangkan oleh:**  
-Muhammad Hasbih Akbar 
-Silvando Miristica Adimawan
+Muhammad Hasbih Akbar, 
+Silvando Miristica Adimawan, 
 Fahmi Al-Islami
