@@ -1,7 +1,7 @@
 # 🌿 OpenTrip Jejak Kita
 
 **OpenTrip Jejak Kita** adalah website sistem booking perjalanan wisata alam untuk memungkinkan pengguna melihat daftar trip, melakukan pemesanan, hingga mengelola riwayat booking secara online.  
-Website ini dibangun sebagai bagian dari proyek pembelajaran dan tugas akademik.
+Website ini dibangun sebagai bagian dari proyek pembelajaran dan tugas akademik perkuliahan.
 
 ---
 
